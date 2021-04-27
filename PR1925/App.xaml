@@ -1,0 +1,10 @@
+﻿<Application x:Class="PR1925.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PR1925"
+             StartupUri="AutoWin.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="firstColor" Color="#FFC1EEC3"/>
+        <SolidColorBrush x:Key="secondColor" Color="#489F4B"/>
+    </Application.Resources>
+</Application>
